@@ -1,0 +1,13 @@
+name: BCHarvestData
+title: BCHarvestData
+username:
+account: kootenaywildlife
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1166592
+bundleId: 4605520
+url: https://kootenaywildlife.shinyapps.io/BCHarvestData/
+when: 1621219621.31219
+lastSyncTime: 1621219621.31219
+asMultiple: FALSE
+asStatic: FALSE
